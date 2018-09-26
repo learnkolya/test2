@@ -1,0 +1,28 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "login": "admin",
+            "password": 123456,
+            "avatar": "admin",
+            "name": "administrator",
+            "surname": "inkognito"
+        },
+        {
+            "id": 2,
+            "login": "kirill",
+            "password": 123,
+            "avatar": "kirill",
+            "name": "kirill",
+            "surname": "bubin"
+        },
+        {
+            "id": 3,
+            "login": "kolya",
+            "password": 123,
+            "avatar": "kolya",
+            "name": "kolya",
+            "surname": "muzyka"
+        }
+    ]
+}
